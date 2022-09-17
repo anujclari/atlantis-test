@@ -1,6 +1,0 @@
-version: 3
-projects:
-- dir: clari-org-production
-  workflow: clari-org-production
-- dir: clari-test-acct
-  workflow: clari-test-acct
